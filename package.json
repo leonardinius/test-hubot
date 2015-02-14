@@ -1,8 +1,8 @@
 {
-  "name": "leo",
+  "name": "leo.bot",
   "version": "0.0.0",
   "private": true,
-  "author": "leonardinius <leonidms@gmail.com>",
+  "author": "leo.bot@mailinator.com",
   "description": "A simple helpful robot for your Company",
   "dependencies": {
     "hubot": "^2.11.0",
